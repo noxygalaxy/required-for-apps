@@ -44,5 +44,18 @@
     "jsmacros",
     "minehop",
     "freecam"
+  ],
+  "ignore_patterns": [
+    "assets/minecraft/lang/",
+    "data/minecraft/worldgen/structure/",
+    "data/minecraft/tags/damage_type/no_impact.json",
+    "data/minecraft/tags/entity_type/impact_projectiles.json",
+    "assets/xaerobetterpvp/",
+    "io/github/kosmx/emotes/arch/ClientCommands.class",
+    "su/plo/slib/libs/adventure/",
+    "assets/viaversion/",
+    "ThankYou.txt",
+    "com/replaymod/lib/com/fasterxml/jackson/core/PrettyPrinter.class",
+    "net/caffeinemc/mods/sodium/client/gui/options/OptionImpact.class"
   ]
 }
